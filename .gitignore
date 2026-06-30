@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+outputs_toxic/
+evidence/
+*.log
+.DS_Store
