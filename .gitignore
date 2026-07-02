@@ -6,3 +6,4 @@ outputs_toxic/
 evidence/
 *.log
 .DS_Store
+.env
